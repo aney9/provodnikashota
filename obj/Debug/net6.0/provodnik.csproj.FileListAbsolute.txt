@@ -1,0 +1,14 @@
+C:\Users\Тимофей\source\repos\provodnik\provodnik\bin\Debug\net6.0\provodnik.exe
+C:\Users\Тимофей\source\repos\provodnik\provodnik\bin\Debug\net6.0\provodnik.deps.json
+C:\Users\Тимофей\source\repos\provodnik\provodnik\bin\Debug\net6.0\provodnik.runtimeconfig.json
+C:\Users\Тимофей\source\repos\provodnik\provodnik\bin\Debug\net6.0\provodnik.dll
+C:\Users\Тимофей\source\repos\provodnik\provodnik\bin\Debug\net6.0\provodnik.pdb
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\provodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\provodnik.AssemblyInfoInputs.cache
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\provodnik.AssemblyInfo.cs
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\provodnik.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\provodnik.dll
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\refint\provodnik.dll
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\provodnik.pdb
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\provodnik.genruntimeconfig.cache
+C:\Users\Тимофей\source\repos\provodnik\provodnik\obj\Debug\net6.0\ref\provodnik.dll
